@@ -11,9 +11,9 @@
     "build": "npx tsc"
   },
   "dependencies": {
-    "overte-declarations": "^0.0.1",
-    "tcs": "^10.0.2",
-    "tsc": "^2.0.4",
+    "overte-declarations": "^0.0.1"
+  },
+  "devDependencies": {
     "tsx": "^4.19.3",
     "typescript": "^5.8.3"
   }
