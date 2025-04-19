@@ -8,7 +8,7 @@ This is an example TypeScript project designed for use with [Overte](https://ove
 
 ## 🚨 Known Issue: Type Parameters in `index.d.ts`
 
-The `overte.d.ts` file currently forces all generic type parameters to be explicitly specified, This causes errors in otherwise valid code.
+The `index.d.ts` file currently forces all generic type parameters to be explicitly specified, This causes errors in otherwise valid code.
 
 ### ❗ Problem Example
 
